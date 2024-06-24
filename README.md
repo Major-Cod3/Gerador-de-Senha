@@ -1,1 +1,5 @@
-# Gerador-de-Senha
+# Gerador de Senha
+
+Um simples script em Python para gerar senhas aleatórias.
+
+## Como Usar
